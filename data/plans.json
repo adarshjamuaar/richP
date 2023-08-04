@@ -1,0 +1,56 @@
+{"plans":[
+	{
+		"Name": "Basic",
+		"Plan Name": "Basic",
+		"Monthly Price": 100,
+		"Yearly Price": 1000,
+		"Video Quality": "Good",
+		"Resolution": "480p",
+		"Devices": [
+			"Phone"
+		],
+		"Active Screens": 1
+	},
+	{
+		"Name": "Standard",
+		"Plan Name": "Standard",
+		"Monthly Price": 200,
+		"Yearly Price": 2000,
+		"Video Quality": "Good",
+		"Resolution": "720p",
+		"Devices": [
+			"Phone",
+			"Tablet"
+		],
+		"Active Screens": 3
+	},
+	{
+		"Name": "Premium",
+		"Plan Name": "Premium",
+		"Monthly Price": 500,
+		"Yearly Price": 5000,
+		"Video Quality": "Better",
+		"Resolution": "1080p",
+		"Devices": [
+			"Phone",
+			"Tablet",
+			"Computer"
+		],
+		"Active Screens": 5
+	},
+	{
+		"Name": "Regular",
+		"Plan Name": "Regular",
+		"Monthly Price": 700,
+		"Yearly Price": 7000,
+		"Video Quality": "Best",
+		"Resolution": "4K+HDR",
+		"Devices": [
+			"Phone",
+			"Tablet",
+			"Computer",
+			"TV"
+		],
+		"Active Screens": 10
+	}
+]}
